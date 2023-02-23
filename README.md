@@ -8,4 +8,4 @@ Armut, Turkey's largest online service platform, brings together service provide
 
 It is desired to create a product recommendation system with Association Rule Learning by using the data set containing the service users and the services and categories these users have received.
 
-- **Medium:** https://medium.com/@zeynepozisil/recommender-system-cec03c6e5666
+📌 **Medium:** https://medium.com/@zeynepozisil/recommender-system-cec03c6e5666
